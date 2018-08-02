@@ -4,6 +4,8 @@ Tis is the Python code used to analyse the 3 million tweets from Russian troll f
 
 This code isolates tweets aimed at Canadians and analyzes broad statistics.
 
+The resulting dataset of Canada-specific tweets is in the file `troll_tweets_canada.csv`
+
 The code is in the Jupyter Notebook file (.ipynb). It requires the pandas and matplotlib libraries. Some natural language processing is done with the nltk library.
 
-You will need to download the original data files from the [FiveThirtyEight repo](https://github.com/fivethirtyeight/russian-troll-tweets).
+To run the entire code, you will need to download the original data files from the [FiveThirtyEight repo](https://github.com/fivethirtyeight/russian-troll-tweets).
